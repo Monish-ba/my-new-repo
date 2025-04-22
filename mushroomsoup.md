@@ -1,7 +1,7 @@
 # Ingrediants
 - onions
 - garlic
-- button mushrooms
+- chestnut mushrooms
 
 # Instructions
-- a bad change
+- a good change
