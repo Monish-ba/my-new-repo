@@ -3,4 +3,5 @@
 - Potato
 - Peas
 # Instructions
-- Peal and add the peas
+- Just Add the peas.
+
