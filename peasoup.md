@@ -3,5 +3,5 @@
 - Potato
 - Peas
 # Instructions
-- Just Add the peas.
-
+- Something more to it, Just Add the peas. 
+- more on this.
